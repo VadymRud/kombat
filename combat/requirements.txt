@@ -1,0 +1,9 @@
+Django == 4.1.*
+wagtail == 4.1.*
+PyYAML
+Markdown
+Pygments
+djangorestframework
+djoser
+django-cors-headers
+django-jsonform
